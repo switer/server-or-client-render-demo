@@ -1,0 +1,11 @@
+{
+  "name": "server-or-client-render-demo",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "colors": "*",
+    "express": "*",
+    "handlebars": "^3.0.3"
+  }
+}

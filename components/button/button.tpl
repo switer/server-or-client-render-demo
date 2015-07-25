@@ -1,0 +1,1 @@
+<button class="button">{{name}}</button>
